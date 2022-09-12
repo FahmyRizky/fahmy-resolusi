@@ -3,6 +3,7 @@ RENCANA 1
  * ES6
  * Framework Javascript
    ^ Vue
+   ^ React
 -Fundamental Data Structure
 -PHP Framework
  ^ Laravel
