@@ -2,6 +2,9 @@ RENCANA 1
 -JAVASCRIPT
  * ES6
  * Framework Javascript
- -Fundamental Data Structure
+   ^ Angular
+   ^ React
+-PHP Framework
+ ^ Laravel
 -CSS
 -HTML5
